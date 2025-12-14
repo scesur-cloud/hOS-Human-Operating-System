@@ -1,0 +1,6 @@
+Q_ID,Question_Text,Domain,Tier,Intensity,Primary_Bucket,Tags,Deck_Eligible,Contraindications
+Q-1042,What do you call 'productivity' that is actually avoidance?,D.VI_OUTPUT,B Deepen,I2.SCAN,Output,"PERF.BUSYWORK, M.AVOIDANCE_LOOP, SYM.PROCRASTINATION, P.FOUNDER, S.BURNOUT, F.COACHING_1ON1",TRUE,
+Q-0089,"What is your caffeine/nicotine signature? (What are you using to force-regulate your nervous system, and what does it cost you later?)",D.I_HARDWARE,B Deepen,I2.SCAN,Hardware,"BIO.CAFFEINE_NICOTINE, M.SOMATIC_DISREGULATION, S.BURNOUT, P.FOUNDER, G.REGULATION, F.SOLO_JOURNAL",TRUE,
+Q-2103,Where do you demand certainty that life cannot provide?,D.II_OS,C Mechanism,I3.DEEP,OS,"M.CONTROL_STRATEGY, SYM.ANXIETY, PERF.DECISION_FATIGUE, S.STARTUP_VOLATILITY, P.FOUNDER, F.COACHING_1ON1",TRUE,
+Q-3011,What does your mind 'assume will happen' before most investor or high-stakes meetings?,D.II_OS,B Deepen,I2.SCAN,OS,"PERF.IMPOSTOR_PATTERN, M.COG_DISTORTION, S.PERFORMANCE_SLUMP, P.FOUNDER, G.CONFIDENCE, F.COACHING_1ON1",TRUE,
+Q-4055,"If you stopped trying to 'win' at work, what emotion would you be forced to feel?",D.IV_SELF,C Mechanism,I3.DEEP,Self,"M.IDENTITY_FUSION, SYM.NUMBNESS, S.BURNOUT, G.MEANING, P.FOUNDER, F.SOLO_JOURNAL",TRUE,Avoid if user is currently in an acute depressive episode; pace and provide grounding options.
